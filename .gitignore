@@ -1,0 +1,11 @@
+*.class
+*.log
+*.jar
+pom.properties
+org.eclipse*
+.settings
+.classpath
+*.war
+.project
+*.MF
+*/target/*
